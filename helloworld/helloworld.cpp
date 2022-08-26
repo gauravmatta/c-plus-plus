@@ -6,7 +6,7 @@
 // Description : Hello World in C, Ansi-style
 //============================================================================
 
-#include <iostream.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 int main(void) {
