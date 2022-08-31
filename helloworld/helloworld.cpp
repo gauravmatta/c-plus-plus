@@ -13,3 +13,7 @@ int main(void) {
 	puts("Hello World!!!");
 	return EXIT_SUCCESS;
 }
+
+void hello(char[34] str) {
+	cout<<str;
+}
